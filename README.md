@@ -1,4 +1,4 @@
-# Coursera_Capstone
+# Coursera_Capstone: Prediction of One's Favor to a Place
 This project is for the Capstone Project of Applied Data Science in Coursera
 
 ## Introduction
